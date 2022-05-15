@@ -1,0 +1,6 @@
+h3 {
+    background: -webkit-linear-gradient(#ffffff, purple);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    cursor: pointer;
+}

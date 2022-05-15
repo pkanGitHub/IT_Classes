@@ -1,0 +1,30 @@
+/* give custom font and color to the name*/
+.header{
+    font-family: 'Mochiy Pop P One', sans-serif;
+    color: #484d6d;   
+}
+
+/* 1. change text color when hover over*/
+.header:hover{
+    color: blue;
+}
+
+/* make the text in the header row a custom color */
+.header-row{
+    color: #6d435a;
+}
+
+/* border around the entire table */
+.table{
+    border: solid #ff6978 3px;
+    /* 2. add padding around the table */
+    padding: 30px;
+}
+
+/* border around each cell in the table */
+.table td, th{
+    border: solid #b1ede8 2px;
+    /* 3. center the words of each cells */
+    text-align: center;
+}
+

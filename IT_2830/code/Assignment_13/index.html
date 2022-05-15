@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- ---google font--- -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dosis:wght@500&display=swap" rel="stylesheet">
+    <!-- ---use bootstrap--- -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+</head>
+<body>
+    <h3 id="header" style="font-family: 'Dosis', sans-serif;">Phyllis Kan</h3>
+    <div class="btn-group">
+        <button class="btn btn-danger" onclick="colorChanger('red')">Red</button>
+        <button class="btn btn-primary" onclick="colorChanger('blue')">Blue</button>
+        <button class="btn btn-success" onclick="colorChanger('green')">Green</button>
+    </div>
+</body>
+<script>
+    let currentColor = "";
+    // for console
+    const name = document.querySelector('h3');
+    const btn = document.body.getElementsByTagName('button');
+    // to change classes 
+    const headerClass = document.getElementById('header')
+    const colorChanger = (color) => {
+        let red = btn[0].innerText;
+        let blue = btn[1].innerText; 
+        let green = btn[2].innerText; 
+        if (color == 'red'){
+            headerClass.className = "text-decoration-underline"
+        } else if(color == 'blue'){
+            headerClass.className = "text-decoration-line-through"
+        } else if(color == 'green'){
+            headerClass.className = ""
+        }
+
+        console.log(`Color changes from ${currentColor} to ${color}`);
+        currentColor = color;
+        name.style.color = `${color}`;
+    }
+</script>
+</html>

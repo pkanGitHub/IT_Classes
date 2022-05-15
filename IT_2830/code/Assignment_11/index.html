@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h3>Phyllis Kan</h3>
+    <button onclick="colorChanger('red')" class="redBtn">Red</button>
+    <button onclick="colorChanger('blue')"  class="blueBtn">Blue</button>
+    <button onclick="colorChanger('green')" class="greenBtn">Green</button>
+</body>
+<script>
+    // black is set as default color
+    let currentColor = '';
+    const name = document.querySelector('h3');
+    const colorChanger = (color) => {
+        const btn = document.body.getElementsByTagName('button');
+        let red = btn[0].innerText;
+        let blue = btn[1].innerText; 
+        let green = btn[2].innerText; 
+        console.log(`Color changes from ${currentColor} to ${color}`);
+        currentColor = color;
+        name.style.color = `${color}`;
+    }
+</script>
+</html>

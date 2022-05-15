@@ -1,0 +1,17 @@
+h3 {
+    color: #ffaacc;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 200;
+}
+
+.redBtn {
+    color: red;
+}
+
+.blueBtn {
+    color: blue;
+}
+
+.greenBtn {
+    color: green;
+}

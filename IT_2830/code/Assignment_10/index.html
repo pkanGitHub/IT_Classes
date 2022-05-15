@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h3>Phyllis Kan</h3>
+</body>
+    <script>
+        
+        const name = document.querySelector('h3')
+        let year = new Date().getFullYear()
+
+        const greeting = () => {
+            let myName = name.textContent
+            alert(`Hello ${myName}, ${year}`)
+            console.log(randNum(100))
+        }
+
+        const randNum = (maxNum) => {
+            return Math.floor(Math.random() * maxNum)
+        }
+
+        name.addEventListener("click", greeting)
+
+    </script>
+</html>
