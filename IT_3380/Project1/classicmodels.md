@@ -1,0 +1,68 @@
+## customers:
+- _id
+- customerName
+- contactLastName
+- contactFirstName
+- phone
+- addressLine1
+- addressLine2
+- city
+- state
+- postalCode
+- country
+- salesRep
+- creditLimit
+- payments
+  - checkNumber(string)
+  - paymentDate
+  - amount
+
+## employees:
+- _id
+- lastName
+- firstName
+- extension
+- email
+- reportsTo
+- jobTitle
+- office
+  - officeCode
+  - city
+  - phone
+  - addressLine1
+  - addressLine2
+  - state
+  - country
+  - postalCode
+  - territory
+
+## orders:
+- _id
+- orderDate
+- requireDate
+- shippedDate
+- status
+- comments
+- customerName
+- salesRep
+- orderDetails
+  - productName
+  - quantityOrdered
+  - priceEach
+  - orderLineNumber
+
+## products:
+- _id
+- productName
+- productScale
+- productVendor
+- productDescription
+- quantityInStock
+- buyPrice
+- MSRP
+- productLine
+  - line
+  - textDescription
+  - htmlDescription
+  - image
+

@@ -1,0 +1,98 @@
+2A
+1. 
+- LEFT JOIN: 
+Total: 122
+NULL: 22 (employee number, firstName, lastName)
+When "LEFT JOIN" employees to customers, the "customers" table on the left side retains all 
+columns while "employees" table combining to it, it will then using the column
+they shared to match up the database without filter out if customers don't have a salesRep.
+
+- RIGHT JOIN:
+Total: 108
+NULL: 8 (customer name, number)
+When "RIGHT JOIN" customers to employees, the "employees" table retains all the columns and
+having customers combining to it, then it will get the customers info for all employeesNumber
+even when they do not assist a customer.
+
+- JOIN:
+Total: 100
+Null: 0
+"JOIN" only filter out rows where columns from customers and employees that is does not 
+have empty data.
+
+2. 
+- LEFT JOIN: 
+Total: 23
+NULL: 0
+When "LEFT JOIN" offices to employees, it is retaining all info from employees table, and
+it looks for the office data for all the employees from employees table. 
+
+- RIGHT JOIN:
+Total: 23
+NULL: 0
+When "RIGHT JOIN" employees to offices, the result is the same as "LEFT JOIN", it is because
+there's not any employees that has no office, or offices not have employees in this database. 
+The only difference is that it was sorted ascendingly by officeNumber.
+
+- JOIN:
+Total: 23
+Null: 0
+Because of how this database is set up, the RIGHT JOIN and LEFT JOIN output the same result 
+as JOIN. 
+
+3. 
+- LEFT JOIN: 
+Total: 3020
+NULL: 24 (order number, date, product name, quantity, price)
+It takes customers as main table, which means it'll have ALL customer information display
+even if customer have't placed an order to show the info of orders or the quantity...etc.
+
+- RIGHT JOIN:
+Total: 2997
+NULL: 1 (customer name, number, order number, date, quantity, price)
+It takes products table as the main table, and joining tables into it that means, 
+it'll display all the products even though a customer didnt order it. And when that
+happens, the column for everything but the product name will be null.
+
+- JOIN:
+Total: 2996
+Null: 0
+It only displays the information of orders that customers have made.
+
+4.
+- LEFT JOIN: 
+Total: 297
+NULL: 24 (payment date, checkNumber, amount)
+When LEFT JOINing payments into customers, meaning we are displaying all the customers
+whether or not they made any payments. If not, it'll just display null on the payment
+fields.
+
+- RIGHT JOIN:
+Total: 273
+NULL: 0
+In this case with RIGHT JOIN, it'll display the same as JOIN because based on all
+payments, they all belongs to a customer. Payment will only exist when a customer
+paid it.
+
+- JOIN:
+Total: 273
+Null: 0
+JOIN displays the payments that has been made by customers
+
+5.
+- LEFT JOIN: 
+Total: 110
+NULL: 0
+All products belongs to a productLines therefore, there will be no product that will
+not have a productLine information.
+
+- RIGHT JOIN:
+Total: 110
+NULL: 0
+Product Line will not exist if there's no product, so it'll not have null either.
+
+- JOIN:
+Total: 110
+Null: 0
+All product has productLine in this database.
+
