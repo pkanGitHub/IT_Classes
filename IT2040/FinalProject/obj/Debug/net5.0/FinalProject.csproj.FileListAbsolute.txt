@@ -1,0 +1,15 @@
+/Users/phylliskan/Desktop/IT_2040/FinalProject/obj/Debug/net5.0/FinalProject.csproj.AssemblyReference.cache
+/Users/phylliskan/Desktop/IT_2040/FinalProject/obj/Debug/net5.0/FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phylliskan/Desktop/IT_2040/FinalProject/obj/Debug/net5.0/FinalProject.AssemblyInfoInputs.cache
+/Users/phylliskan/Desktop/IT_2040/FinalProject/obj/Debug/net5.0/FinalProject.AssemblyInfo.cs
+/Users/phylliskan/Desktop/IT_2040/FinalProject/obj/Debug/net5.0/FinalProject.csproj.CoreCompileInputs.cache
+/Users/phylliskan/Desktop/IT_2040/FinalProject/bin/Debug/net5.0/FinalProject.deps.json
+/Users/phylliskan/Desktop/IT_2040/FinalProject/bin/Debug/net5.0/FinalProject.runtimeconfig.json
+/Users/phylliskan/Desktop/IT_2040/FinalProject/bin/Debug/net5.0/FinalProject.runtimeconfig.dev.json
+/Users/phylliskan/Desktop/IT_2040/FinalProject/bin/Debug/net5.0/FinalProject.dll
+/Users/phylliskan/Desktop/IT_2040/FinalProject/bin/Debug/net5.0/ref/FinalProject.dll
+/Users/phylliskan/Desktop/IT_2040/FinalProject/bin/Debug/net5.0/FinalProject.pdb
+/Users/phylliskan/Desktop/IT_2040/FinalProject/obj/Debug/net5.0/FinalProject.dll
+/Users/phylliskan/Desktop/IT_2040/FinalProject/obj/Debug/net5.0/ref/FinalProject.dll
+/Users/phylliskan/Desktop/IT_2040/FinalProject/obj/Debug/net5.0/FinalProject.pdb
+/Users/phylliskan/Desktop/IT_2040/FinalProject/obj/Debug/net5.0/FinalProject.genruntimeconfig.cache

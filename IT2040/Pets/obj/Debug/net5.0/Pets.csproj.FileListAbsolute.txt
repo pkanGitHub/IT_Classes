@@ -1,0 +1,15 @@
+/Users/phylliskan/Desktop/IT_2040/Pets/bin/Debug/net5.0/Pets.deps.json
+/Users/phylliskan/Desktop/IT_2040/Pets/bin/Debug/net5.0/Pets.runtimeconfig.json
+/Users/phylliskan/Desktop/IT_2040/Pets/bin/Debug/net5.0/Pets.runtimeconfig.dev.json
+/Users/phylliskan/Desktop/IT_2040/Pets/bin/Debug/net5.0/Pets.dll
+/Users/phylliskan/Desktop/IT_2040/Pets/bin/Debug/net5.0/ref/Pets.dll
+/Users/phylliskan/Desktop/IT_2040/Pets/bin/Debug/net5.0/Pets.pdb
+/Users/phylliskan/Desktop/IT_2040/Pets/obj/Debug/net5.0/Pets.csproj.AssemblyReference.cache
+/Users/phylliskan/Desktop/IT_2040/Pets/obj/Debug/net5.0/Pets.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phylliskan/Desktop/IT_2040/Pets/obj/Debug/net5.0/Pets.AssemblyInfoInputs.cache
+/Users/phylliskan/Desktop/IT_2040/Pets/obj/Debug/net5.0/Pets.AssemblyInfo.cs
+/Users/phylliskan/Desktop/IT_2040/Pets/obj/Debug/net5.0/Pets.csproj.CoreCompileInputs.cache
+/Users/phylliskan/Desktop/IT_2040/Pets/obj/Debug/net5.0/Pets.dll
+/Users/phylliskan/Desktop/IT_2040/Pets/obj/Debug/net5.0/ref/Pets.dll
+/Users/phylliskan/Desktop/IT_2040/Pets/obj/Debug/net5.0/Pets.pdb
+/Users/phylliskan/Desktop/IT_2040/Pets/obj/Debug/net5.0/Pets.genruntimeconfig.cache

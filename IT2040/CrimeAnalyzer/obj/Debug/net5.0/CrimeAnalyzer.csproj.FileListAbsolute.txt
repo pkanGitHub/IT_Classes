@@ -1,0 +1,15 @@
+/Users/phylliskan/Desktop/IT_2040/CrimeAnalyzer/obj/Debug/net5.0/CrimeAnalyzer.csproj.AssemblyReference.cache
+/Users/phylliskan/Desktop/IT_2040/CrimeAnalyzer/obj/Debug/net5.0/CrimeAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phylliskan/Desktop/IT_2040/CrimeAnalyzer/obj/Debug/net5.0/CrimeAnalyzer.AssemblyInfoInputs.cache
+/Users/phylliskan/Desktop/IT_2040/CrimeAnalyzer/obj/Debug/net5.0/CrimeAnalyzer.AssemblyInfo.cs
+/Users/phylliskan/Desktop/IT_2040/CrimeAnalyzer/obj/Debug/net5.0/CrimeAnalyzer.csproj.CoreCompileInputs.cache
+/Users/phylliskan/Desktop/IT_2040/CrimeAnalyzer/bin/Debug/net5.0/CrimeAnalyzer.deps.json
+/Users/phylliskan/Desktop/IT_2040/CrimeAnalyzer/bin/Debug/net5.0/CrimeAnalyzer.runtimeconfig.json
+/Users/phylliskan/Desktop/IT_2040/CrimeAnalyzer/bin/Debug/net5.0/CrimeAnalyzer.runtimeconfig.dev.json
+/Users/phylliskan/Desktop/IT_2040/CrimeAnalyzer/bin/Debug/net5.0/CrimeAnalyzer.dll
+/Users/phylliskan/Desktop/IT_2040/CrimeAnalyzer/bin/Debug/net5.0/ref/CrimeAnalyzer.dll
+/Users/phylliskan/Desktop/IT_2040/CrimeAnalyzer/bin/Debug/net5.0/CrimeAnalyzer.pdb
+/Users/phylliskan/Desktop/IT_2040/CrimeAnalyzer/obj/Debug/net5.0/CrimeAnalyzer.dll
+/Users/phylliskan/Desktop/IT_2040/CrimeAnalyzer/obj/Debug/net5.0/ref/CrimeAnalyzer.dll
+/Users/phylliskan/Desktop/IT_2040/CrimeAnalyzer/obj/Debug/net5.0/CrimeAnalyzer.pdb
+/Users/phylliskan/Desktop/IT_2040/CrimeAnalyzer/obj/Debug/net5.0/CrimeAnalyzer.genruntimeconfig.cache

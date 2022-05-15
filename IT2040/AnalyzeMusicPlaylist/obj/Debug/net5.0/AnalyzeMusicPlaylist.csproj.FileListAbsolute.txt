@@ -1,0 +1,15 @@
+/Users/phylliskan/Desktop/IT_2040/AnalyzeMusicPlaylist/bin/Debug/net5.0/AnalyzeMusicPlaylist.deps.json
+/Users/phylliskan/Desktop/IT_2040/AnalyzeMusicPlaylist/bin/Debug/net5.0/AnalyzeMusicPlaylist.runtimeconfig.json
+/Users/phylliskan/Desktop/IT_2040/AnalyzeMusicPlaylist/bin/Debug/net5.0/AnalyzeMusicPlaylist.runtimeconfig.dev.json
+/Users/phylliskan/Desktop/IT_2040/AnalyzeMusicPlaylist/bin/Debug/net5.0/AnalyzeMusicPlaylist.dll
+/Users/phylliskan/Desktop/IT_2040/AnalyzeMusicPlaylist/bin/Debug/net5.0/ref/AnalyzeMusicPlaylist.dll
+/Users/phylliskan/Desktop/IT_2040/AnalyzeMusicPlaylist/bin/Debug/net5.0/AnalyzeMusicPlaylist.pdb
+/Users/phylliskan/Desktop/IT_2040/AnalyzeMusicPlaylist/obj/Debug/net5.0/AnalyzeMusicPlaylist.csproj.AssemblyReference.cache
+/Users/phylliskan/Desktop/IT_2040/AnalyzeMusicPlaylist/obj/Debug/net5.0/AnalyzeMusicPlaylist.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phylliskan/Desktop/IT_2040/AnalyzeMusicPlaylist/obj/Debug/net5.0/AnalyzeMusicPlaylist.AssemblyInfoInputs.cache
+/Users/phylliskan/Desktop/IT_2040/AnalyzeMusicPlaylist/obj/Debug/net5.0/AnalyzeMusicPlaylist.AssemblyInfo.cs
+/Users/phylliskan/Desktop/IT_2040/AnalyzeMusicPlaylist/obj/Debug/net5.0/AnalyzeMusicPlaylist.csproj.CoreCompileInputs.cache
+/Users/phylliskan/Desktop/IT_2040/AnalyzeMusicPlaylist/obj/Debug/net5.0/AnalyzeMusicPlaylist.dll
+/Users/phylliskan/Desktop/IT_2040/AnalyzeMusicPlaylist/obj/Debug/net5.0/ref/AnalyzeMusicPlaylist.dll
+/Users/phylliskan/Desktop/IT_2040/AnalyzeMusicPlaylist/obj/Debug/net5.0/AnalyzeMusicPlaylist.pdb
+/Users/phylliskan/Desktop/IT_2040/AnalyzeMusicPlaylist/obj/Debug/net5.0/AnalyzeMusicPlaylist.genruntimeconfig.cache

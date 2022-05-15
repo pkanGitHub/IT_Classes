@@ -1,0 +1,15 @@
+/Users/phylliskan/Desktop/IT_2040/LINQPractice/bin/Debug/net5.0/LINQPractice.deps.json
+/Users/phylliskan/Desktop/IT_2040/LINQPractice/bin/Debug/net5.0/LINQPractice.runtimeconfig.json
+/Users/phylliskan/Desktop/IT_2040/LINQPractice/bin/Debug/net5.0/LINQPractice.runtimeconfig.dev.json
+/Users/phylliskan/Desktop/IT_2040/LINQPractice/bin/Debug/net5.0/LINQPractice.dll
+/Users/phylliskan/Desktop/IT_2040/LINQPractice/bin/Debug/net5.0/ref/LINQPractice.dll
+/Users/phylliskan/Desktop/IT_2040/LINQPractice/bin/Debug/net5.0/LINQPractice.pdb
+/Users/phylliskan/Desktop/IT_2040/LINQPractice/obj/Debug/net5.0/LINQPractice.csproj.AssemblyReference.cache
+/Users/phylliskan/Desktop/IT_2040/LINQPractice/obj/Debug/net5.0/LINQPractice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phylliskan/Desktop/IT_2040/LINQPractice/obj/Debug/net5.0/LINQPractice.AssemblyInfoInputs.cache
+/Users/phylliskan/Desktop/IT_2040/LINQPractice/obj/Debug/net5.0/LINQPractice.AssemblyInfo.cs
+/Users/phylliskan/Desktop/IT_2040/LINQPractice/obj/Debug/net5.0/LINQPractice.csproj.CoreCompileInputs.cache
+/Users/phylliskan/Desktop/IT_2040/LINQPractice/obj/Debug/net5.0/LINQPractice.dll
+/Users/phylliskan/Desktop/IT_2040/LINQPractice/obj/Debug/net5.0/ref/LINQPractice.dll
+/Users/phylliskan/Desktop/IT_2040/LINQPractice/obj/Debug/net5.0/LINQPractice.pdb
+/Users/phylliskan/Desktop/IT_2040/LINQPractice/obj/Debug/net5.0/LINQPractice.genruntimeconfig.cache

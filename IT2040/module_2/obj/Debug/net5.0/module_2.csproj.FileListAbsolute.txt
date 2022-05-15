@@ -1,0 +1,15 @@
+/Users/phylliskan/Desktop/IT_2040/module_2/bin/Debug/net5.0/module_2.deps.json
+/Users/phylliskan/Desktop/IT_2040/module_2/bin/Debug/net5.0/module_2.runtimeconfig.json
+/Users/phylliskan/Desktop/IT_2040/module_2/bin/Debug/net5.0/module_2.runtimeconfig.dev.json
+/Users/phylliskan/Desktop/IT_2040/module_2/bin/Debug/net5.0/module_2.dll
+/Users/phylliskan/Desktop/IT_2040/module_2/bin/Debug/net5.0/ref/module_2.dll
+/Users/phylliskan/Desktop/IT_2040/module_2/bin/Debug/net5.0/module_2.pdb
+/Users/phylliskan/Desktop/IT_2040/module_2/obj/Debug/net5.0/module_2.csproj.AssemblyReference.cache
+/Users/phylliskan/Desktop/IT_2040/module_2/obj/Debug/net5.0/module_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phylliskan/Desktop/IT_2040/module_2/obj/Debug/net5.0/module_2.AssemblyInfoInputs.cache
+/Users/phylliskan/Desktop/IT_2040/module_2/obj/Debug/net5.0/module_2.AssemblyInfo.cs
+/Users/phylliskan/Desktop/IT_2040/module_2/obj/Debug/net5.0/module_2.csproj.CoreCompileInputs.cache
+/Users/phylliskan/Desktop/IT_2040/module_2/obj/Debug/net5.0/module_2.dll
+/Users/phylliskan/Desktop/IT_2040/module_2/obj/Debug/net5.0/ref/module_2.dll
+/Users/phylliskan/Desktop/IT_2040/module_2/obj/Debug/net5.0/module_2.pdb
+/Users/phylliskan/Desktop/IT_2040/module_2/obj/Debug/net5.0/module_2.genruntimeconfig.cache

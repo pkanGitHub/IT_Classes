@@ -1,0 +1,15 @@
+/Users/phylliskan/Desktop/IT_2040/SalesDataAnalyzer/bin/Debug/net5.0/SalesDataAnalyzer.deps.json
+/Users/phylliskan/Desktop/IT_2040/SalesDataAnalyzer/bin/Debug/net5.0/SalesDataAnalyzer.runtimeconfig.json
+/Users/phylliskan/Desktop/IT_2040/SalesDataAnalyzer/bin/Debug/net5.0/SalesDataAnalyzer.runtimeconfig.dev.json
+/Users/phylliskan/Desktop/IT_2040/SalesDataAnalyzer/bin/Debug/net5.0/SalesDataAnalyzer.dll
+/Users/phylliskan/Desktop/IT_2040/SalesDataAnalyzer/bin/Debug/net5.0/ref/SalesDataAnalyzer.dll
+/Users/phylliskan/Desktop/IT_2040/SalesDataAnalyzer/bin/Debug/net5.0/SalesDataAnalyzer.pdb
+/Users/phylliskan/Desktop/IT_2040/SalesDataAnalyzer/obj/Debug/net5.0/SalesDataAnalyzer.csproj.AssemblyReference.cache
+/Users/phylliskan/Desktop/IT_2040/SalesDataAnalyzer/obj/Debug/net5.0/SalesDataAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phylliskan/Desktop/IT_2040/SalesDataAnalyzer/obj/Debug/net5.0/SalesDataAnalyzer.AssemblyInfoInputs.cache
+/Users/phylliskan/Desktop/IT_2040/SalesDataAnalyzer/obj/Debug/net5.0/SalesDataAnalyzer.AssemblyInfo.cs
+/Users/phylliskan/Desktop/IT_2040/SalesDataAnalyzer/obj/Debug/net5.0/SalesDataAnalyzer.csproj.CoreCompileInputs.cache
+/Users/phylliskan/Desktop/IT_2040/SalesDataAnalyzer/obj/Debug/net5.0/SalesDataAnalyzer.dll
+/Users/phylliskan/Desktop/IT_2040/SalesDataAnalyzer/obj/Debug/net5.0/ref/SalesDataAnalyzer.dll
+/Users/phylliskan/Desktop/IT_2040/SalesDataAnalyzer/obj/Debug/net5.0/SalesDataAnalyzer.pdb
+/Users/phylliskan/Desktop/IT_2040/SalesDataAnalyzer/obj/Debug/net5.0/SalesDataAnalyzer.genruntimeconfig.cache

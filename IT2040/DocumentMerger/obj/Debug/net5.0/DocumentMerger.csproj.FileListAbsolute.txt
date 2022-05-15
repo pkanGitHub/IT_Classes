@@ -1,0 +1,15 @@
+/Users/phylliskan/Desktop/IT_2040/DocumentMerger/bin/Debug/net5.0/DocumentMerger.deps.json
+/Users/phylliskan/Desktop/IT_2040/DocumentMerger/bin/Debug/net5.0/DocumentMerger.runtimeconfig.json
+/Users/phylliskan/Desktop/IT_2040/DocumentMerger/bin/Debug/net5.0/DocumentMerger.runtimeconfig.dev.json
+/Users/phylliskan/Desktop/IT_2040/DocumentMerger/bin/Debug/net5.0/DocumentMerger.dll
+/Users/phylliskan/Desktop/IT_2040/DocumentMerger/bin/Debug/net5.0/ref/DocumentMerger.dll
+/Users/phylliskan/Desktop/IT_2040/DocumentMerger/bin/Debug/net5.0/DocumentMerger.pdb
+/Users/phylliskan/Desktop/IT_2040/DocumentMerger/obj/Debug/net5.0/DocumentMerger.csproj.AssemblyReference.cache
+/Users/phylliskan/Desktop/IT_2040/DocumentMerger/obj/Debug/net5.0/DocumentMerger.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phylliskan/Desktop/IT_2040/DocumentMerger/obj/Debug/net5.0/DocumentMerger.AssemblyInfoInputs.cache
+/Users/phylliskan/Desktop/IT_2040/DocumentMerger/obj/Debug/net5.0/DocumentMerger.AssemblyInfo.cs
+/Users/phylliskan/Desktop/IT_2040/DocumentMerger/obj/Debug/net5.0/DocumentMerger.csproj.CoreCompileInputs.cache
+/Users/phylliskan/Desktop/IT_2040/DocumentMerger/obj/Debug/net5.0/DocumentMerger.dll
+/Users/phylliskan/Desktop/IT_2040/DocumentMerger/obj/Debug/net5.0/ref/DocumentMerger.dll
+/Users/phylliskan/Desktop/IT_2040/DocumentMerger/obj/Debug/net5.0/DocumentMerger.pdb
+/Users/phylliskan/Desktop/IT_2040/DocumentMerger/obj/Debug/net5.0/DocumentMerger.genruntimeconfig.cache

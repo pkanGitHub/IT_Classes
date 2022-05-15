@@ -1,0 +1,15 @@
+/Users/phylliskan/Desktop/IT_2040/Document/bin/Debug/net5.0/Document.deps.json
+/Users/phylliskan/Desktop/IT_2040/Document/bin/Debug/net5.0/Document.runtimeconfig.json
+/Users/phylliskan/Desktop/IT_2040/Document/bin/Debug/net5.0/Document.runtimeconfig.dev.json
+/Users/phylliskan/Desktop/IT_2040/Document/bin/Debug/net5.0/Document.dll
+/Users/phylliskan/Desktop/IT_2040/Document/bin/Debug/net5.0/ref/Document.dll
+/Users/phylliskan/Desktop/IT_2040/Document/bin/Debug/net5.0/Document.pdb
+/Users/phylliskan/Desktop/IT_2040/Document/obj/Debug/net5.0/Document.csproj.AssemblyReference.cache
+/Users/phylliskan/Desktop/IT_2040/Document/obj/Debug/net5.0/Document.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phylliskan/Desktop/IT_2040/Document/obj/Debug/net5.0/Document.AssemblyInfoInputs.cache
+/Users/phylliskan/Desktop/IT_2040/Document/obj/Debug/net5.0/Document.AssemblyInfo.cs
+/Users/phylliskan/Desktop/IT_2040/Document/obj/Debug/net5.0/Document.csproj.CoreCompileInputs.cache
+/Users/phylliskan/Desktop/IT_2040/Document/obj/Debug/net5.0/Document.dll
+/Users/phylliskan/Desktop/IT_2040/Document/obj/Debug/net5.0/ref/Document.dll
+/Users/phylliskan/Desktop/IT_2040/Document/obj/Debug/net5.0/Document.pdb
+/Users/phylliskan/Desktop/IT_2040/Document/obj/Debug/net5.0/Document.genruntimeconfig.cache

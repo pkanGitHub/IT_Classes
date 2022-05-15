@@ -1,0 +1,15 @@
+/Users/phylliskan/Desktop/IT_2040/ImprovedGradeConverter/obj/Debug/net5.0/ImprovedGradeConverter.csproj.AssemblyReference.cache
+/Users/phylliskan/Desktop/IT_2040/ImprovedGradeConverter/obj/Debug/net5.0/ImprovedGradeConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phylliskan/Desktop/IT_2040/ImprovedGradeConverter/obj/Debug/net5.0/ImprovedGradeConverter.AssemblyInfoInputs.cache
+/Users/phylliskan/Desktop/IT_2040/ImprovedGradeConverter/obj/Debug/net5.0/ImprovedGradeConverter.AssemblyInfo.cs
+/Users/phylliskan/Desktop/IT_2040/ImprovedGradeConverter/obj/Debug/net5.0/ImprovedGradeConverter.csproj.CoreCompileInputs.cache
+/Users/phylliskan/Desktop/IT_2040/ImprovedGradeConverter/bin/Debug/net5.0/ImprovedGradeConverter.deps.json
+/Users/phylliskan/Desktop/IT_2040/ImprovedGradeConverter/bin/Debug/net5.0/ImprovedGradeConverter.runtimeconfig.json
+/Users/phylliskan/Desktop/IT_2040/ImprovedGradeConverter/bin/Debug/net5.0/ImprovedGradeConverter.runtimeconfig.dev.json
+/Users/phylliskan/Desktop/IT_2040/ImprovedGradeConverter/bin/Debug/net5.0/ImprovedGradeConverter.dll
+/Users/phylliskan/Desktop/IT_2040/ImprovedGradeConverter/bin/Debug/net5.0/ref/ImprovedGradeConverter.dll
+/Users/phylliskan/Desktop/IT_2040/ImprovedGradeConverter/bin/Debug/net5.0/ImprovedGradeConverter.pdb
+/Users/phylliskan/Desktop/IT_2040/ImprovedGradeConverter/obj/Debug/net5.0/ImprovedGradeConverter.dll
+/Users/phylliskan/Desktop/IT_2040/ImprovedGradeConverter/obj/Debug/net5.0/ref/ImprovedGradeConverter.dll
+/Users/phylliskan/Desktop/IT_2040/ImprovedGradeConverter/obj/Debug/net5.0/ImprovedGradeConverter.pdb
+/Users/phylliskan/Desktop/IT_2040/ImprovedGradeConverter/obj/Debug/net5.0/ImprovedGradeConverter.genruntimeconfig.cache

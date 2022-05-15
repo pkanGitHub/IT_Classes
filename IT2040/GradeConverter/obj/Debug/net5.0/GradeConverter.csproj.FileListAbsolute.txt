@@ -1,0 +1,15 @@
+/Users/phylliskan/Desktop/IT_2040/GradeConverter/bin/Debug/net5.0/GradeConverter.deps.json
+/Users/phylliskan/Desktop/IT_2040/GradeConverter/bin/Debug/net5.0/GradeConverter.runtimeconfig.json
+/Users/phylliskan/Desktop/IT_2040/GradeConverter/bin/Debug/net5.0/GradeConverter.runtimeconfig.dev.json
+/Users/phylliskan/Desktop/IT_2040/GradeConverter/bin/Debug/net5.0/GradeConverter.dll
+/Users/phylliskan/Desktop/IT_2040/GradeConverter/bin/Debug/net5.0/ref/GradeConverter.dll
+/Users/phylliskan/Desktop/IT_2040/GradeConverter/bin/Debug/net5.0/GradeConverter.pdb
+/Users/phylliskan/Desktop/IT_2040/GradeConverter/obj/Debug/net5.0/GradeConverter.csproj.AssemblyReference.cache
+/Users/phylliskan/Desktop/IT_2040/GradeConverter/obj/Debug/net5.0/GradeConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phylliskan/Desktop/IT_2040/GradeConverter/obj/Debug/net5.0/GradeConverter.AssemblyInfoInputs.cache
+/Users/phylliskan/Desktop/IT_2040/GradeConverter/obj/Debug/net5.0/GradeConverter.AssemblyInfo.cs
+/Users/phylliskan/Desktop/IT_2040/GradeConverter/obj/Debug/net5.0/GradeConverter.csproj.CoreCompileInputs.cache
+/Users/phylliskan/Desktop/IT_2040/GradeConverter/obj/Debug/net5.0/GradeConverter.dll
+/Users/phylliskan/Desktop/IT_2040/GradeConverter/obj/Debug/net5.0/ref/GradeConverter.dll
+/Users/phylliskan/Desktop/IT_2040/GradeConverter/obj/Debug/net5.0/GradeConverter.pdb
+/Users/phylliskan/Desktop/IT_2040/GradeConverter/obj/Debug/net5.0/GradeConverter.genruntimeconfig.cache

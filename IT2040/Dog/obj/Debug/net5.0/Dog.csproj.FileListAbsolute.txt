@@ -1,0 +1,15 @@
+/Users/phylliskan/Desktop/IT_2040/Dog/bin/Debug/net5.0/Dog.deps.json
+/Users/phylliskan/Desktop/IT_2040/Dog/bin/Debug/net5.0/Dog.runtimeconfig.json
+/Users/phylliskan/Desktop/IT_2040/Dog/bin/Debug/net5.0/Dog.runtimeconfig.dev.json
+/Users/phylliskan/Desktop/IT_2040/Dog/bin/Debug/net5.0/Dog.dll
+/Users/phylliskan/Desktop/IT_2040/Dog/bin/Debug/net5.0/ref/Dog.dll
+/Users/phylliskan/Desktop/IT_2040/Dog/bin/Debug/net5.0/Dog.pdb
+/Users/phylliskan/Desktop/IT_2040/Dog/obj/Debug/net5.0/Dog.csproj.AssemblyReference.cache
+/Users/phylliskan/Desktop/IT_2040/Dog/obj/Debug/net5.0/Dog.GeneratedMSBuildEditorConfig.editorconfig
+/Users/phylliskan/Desktop/IT_2040/Dog/obj/Debug/net5.0/Dog.AssemblyInfoInputs.cache
+/Users/phylliskan/Desktop/IT_2040/Dog/obj/Debug/net5.0/Dog.AssemblyInfo.cs
+/Users/phylliskan/Desktop/IT_2040/Dog/obj/Debug/net5.0/Dog.csproj.CoreCompileInputs.cache
+/Users/phylliskan/Desktop/IT_2040/Dog/obj/Debug/net5.0/Dog.dll
+/Users/phylliskan/Desktop/IT_2040/Dog/obj/Debug/net5.0/ref/Dog.dll
+/Users/phylliskan/Desktop/IT_2040/Dog/obj/Debug/net5.0/Dog.pdb
+/Users/phylliskan/Desktop/IT_2040/Dog/obj/Debug/net5.0/Dog.genruntimeconfig.cache
