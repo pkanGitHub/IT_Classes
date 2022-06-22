@@ -1,0 +1,27 @@
+<%- include('./partials/header.ejs'); %>
+<div class="container">
+    <div class="content">
+        <div>
+            <h2><%=objective.title%></h2>
+            <div class="goal">
+                <p>
+                    After graduation, my goal is to find a software developer position locally because I really like living in Columbia. 
+                    I'd like to get more familiar with the working structure before thinking about bigger company or ideally a remote job.
+                </p>
+                <p>
+                    However, learning more technologies is the biggest goal after graduation because once I step into this field, I am aware 
+                    it is a constant learning field due to technologies always improving.
+                </p>
+            </div>
+            <button class="new-tech-btn" onclick="newTech()">Next Skill To Learn</button>
+            <div id="new-tech" style="display:none">
+                <% newSkills.forEach(skill => {%>
+                    <div class="grid-item-new-skill">
+                        <img src="<%= skill.img %>"/>
+                        <h3><%= skill.name%></h3>
+                    </div>
+                <% }) %>
+            </div>
+        </div>
+    </div>
+<%- include('./partials/footer.ejs'); %>

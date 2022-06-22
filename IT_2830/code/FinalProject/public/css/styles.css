@@ -1,0 +1,222 @@
+html,body { 
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.main-nav {
+  display: flex;
+  list-style-type: none;
+  background-color: #444;
+  color: white;
+  align-items: center;
+  text-decoration: none;
+  margin: 0;
+}
+
+nav li a {
+  position: relative;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 30px;
+  margin: 10px 0px;
+  text-decoration: none;
+}
+
+nav li a::before {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 4px;
+  border-radius: 4px;
+  background-color: #0072b1;
+  bottom: 0;
+  left: 0;
+  transform-origin: right;
+  transform: scaleX(0);
+  transition: transform .3s ease-in-out;
+}
+
+nav li a:hover::before{
+  transform-origin: left;
+  transform: scaleX(1);
+}
+
+/* color theme */
+#colors {
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background-color: transparent;
+  appearance: none;
+  width: 100px;
+  height: 40px;
+  border: none;
+  cursor: pointer;
+}
+
+#colors::-webkit-color-swatch {
+  border-radius: 5px;
+  border:black 3px; 
+}
+
+#colors::-moz-color-swatch {
+  border-radius: 5px;
+  border:black 3px; 
+}
+
+.colorTheme {
+  display:flex;
+  justify-content: center;
+  margin-left: auto;
+  align-items: center;
+  padding-right: 20px;
+}
+
+/* after navbar */
+.container {
+  display: flex;
+  flex-direction: column;
+  /* min-height: 100%; */
+  height: 100%;
+  background-color: #F4F4F4;
+}
+
+.content {
+  margin: 20px auto;
+  height: 100%;
+  padding-top: 20px;
+  text-align: center;
+  width: 70%;
+}
+
+/* home */
+.home-title{
+  text-align: left;
+}
+
+.photo {
+  border-radius:50%;
+  border: 1px solid;
+  width:150px;
+  height: 180px;
+
+  background-position: center center;
+  background-size: cover;
+}
+
+/* about  */
+.about-me p, .goal p{
+  padding: 3px;
+  line-height: 1.5;
+  text-align: left;
+}
+
+.about-me span {
+  font-weight: 900;
+  font-size: 30px;
+}
+
+/* skills */
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  row-gap: 5px;
+}
+
+.grid-item {
+  padding: 0 20px;
+  text-align: center;
+}
+
+.grid-item img {
+  height: 75px;
+  padding: 10px;
+}
+
+/* objective */
+.new-tech-btn {
+  width: 200px;
+  height: 30px;
+  border: 1px blue solid;
+  background-color: #0072b1;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+#new-tech {
+  padding-top: 20px;
+}
+
+.grid-item-new-skill {
+  display: inline-flex;
+  flex-direction: column;
+  padding-right: 10px;
+}
+
+.grid-item-new-skill img{
+  padding: 5px;
+  height: 50px;
+}
+
+.grid-item-new-skill h3{
+  margin: 0;
+}
+
+/* footer*/
+.footer {
+  display: flex;
+  flex-direction: column;
+  color: black;
+  text-align: center;
+}
+
+.icon{
+  padding-top: 20px;
+}
+
+.icon a{
+  padding-left: 10px;
+}
+
+.fa-github{
+  color: #333;
+}
+
+.fa-linkedin{
+  color: #0072b1;
+}
+
+/* animation */
+#typewriter {
+	display: inline-block;
+	vertical-align: middle;
+  text-transform: uppercase;
+  font-size: 50px;
+  font-weight: 700;
+	color: #e56645;
+	letter-spacing: 2px;
+}
+
+#cursor {
+  display: inline-block;
+	vertical-align: middle;
+	width: 4px;
+	height: 50px;
+	background-color: #e56645;
+	animation: blink .75s step-end infinite;
+}
+
+@keyframes blink {
+	from, to { 
+		background-color: transparent 
+	}
+	50% { 
+		background-color: #e56645; 
+	}
+}
