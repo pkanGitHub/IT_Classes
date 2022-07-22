@@ -16,6 +16,7 @@ def get_chart_type():
     print("\nChart Types\n------------------")
     print("1. Bar")
     print("2. Line")
+    
     try:
         choice = int(input("\nEnter the chart type you want (1,2): "))
         if choice < 1 or choice > 2:

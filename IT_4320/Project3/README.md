@@ -31,7 +31,25 @@ python3 app.py
 
 **Program is closed or reran based on user input**
 
-*This was our scrum team project, and this is my copy of it so I can make individual changes.*
+---
+
+### **NOTE** 
+If the program doesn't run, you might need this extra step:
+
+add a file name `.env` in the current directory
+```
+touch .env
+```
+then in there use the following code and replace `<your key>` with your api key
+
+```
+#.env
+API_KEY="<your key>"
+```
+
+*This was our scrum team project in summer 2022, and this is my copy of it so I can make individual changes.*
+
+
 
 
 
